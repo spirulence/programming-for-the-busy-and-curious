@@ -4,6 +4,6 @@ Lucky for us, VS Code includes good support for the PEP8 standard mentioned in t
 
 To see an example of a formatting issues, navigate to `chapter_01/section_01_09_bad_formatting.py`. This file has a few too many blank lines in a couple of places, and it also has too many spaces on one of the lines.
 
-To automatically fix this file, run the `Format Document` command from the Command Palette.
+To automatically fix this file, run the `Format Document` command from the Command Palette. Notice the automatic changes - after running the command, the file will look different, but its function will not be affected.
 
 It's a good practice to run this command on your files every once in a while - good formatting helps your code be understandable by other developers.
