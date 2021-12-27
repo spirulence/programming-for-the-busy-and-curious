@@ -8,7 +8,7 @@ I also know that you're probably very busy, no matter what stage of life you're 
 
 ## How to use this
 
-The first few lessons are all about setting up your environment, and I recommend doing them in order. We start with the language Python, a versatile first language. You'll learn the basics of working in VS Code, a developer toolset that many professional programmers use to build great software.
+The first section is all about setting up your environment, and I recommend doing that section in order. We start with the language Python, a versatile first language. You'll learn the basics of working in VS Code, a developer toolset that many professional programmers use to build great software.
 
 After that, it's up to you. I've got a suggested ordering where we gradually increase the complexity of the projects and tools, but if something is really boring you, feel free to skip around.
 
@@ -16,4 +16,4 @@ Lastly, I have done my best to keep the lessons concise, but I also know that so
 
 ## Let's go!
 
-The stage is set - let's start setting up your environment! Right now I am assuming you're reading this on Github, but soon you'll be working in a real programmer's environment. ![Click here to go to lesson 1.](section-01-environment/lesson-01-gitpod.md)
+The stage is set - let's start setting up your environment! Right now I am assuming you're reading this on Github, but soon you'll be working in a real programmer's environment. [Click here to go to lesson 1.](section-01/lesson-01.md)
