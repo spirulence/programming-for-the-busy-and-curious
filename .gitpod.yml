@@ -3,3 +3,4 @@ image: mcr.microsoft.com/vscode/devcontainers/python:0-3.10-bullseye
 vscode:
   extensions:
     - ms-python.python
+    - ms-toolsai.jupyter
